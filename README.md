@@ -12,10 +12,8 @@ A Python implementation of a secure communication protocol between a Drone (Clie
 - **Replay Attack Protection** — timestamp-based deduplication
 
 ## Project Structure
-├── key_exchange.py      # Diffie-Hellman key exchange
-├── encryption.py        # Hybrid RSA + AES-CBC encryption
-├── authentication.py    # Auth, signatures, HMAC, replay protection
-└── main.py              # Full end-to-end demo
+<img width="655" height="133" alt="image" src="https://github.com/user-attachments/assets/4f20cead-fe20-4a1c-9eab-be9a0b450214" />
+
 
 ## How to Run
 
